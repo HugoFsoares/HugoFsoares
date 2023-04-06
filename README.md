@@ -43,8 +43,4 @@
 Veja alguns dos meus trabalhos e treinamentos logo abaixo.
 
 
-   I  I
-   I  I
-   I  I
-   \  /
-    \/
+&darr;
